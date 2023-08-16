@@ -1,0 +1,11 @@
+﻿body {
+}
+
+.Logo {
+ display: inline-block;
+ padding: 10px;
+}
+
+.Text {
+    display: inline-block;
+}
